@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Pessoal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            width: 10%;
+            height: auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Meu Nome</h1>
+        <p>Aqui vai uma breve descrição sobre mim.</p>
+    </header>
+
+    <section>
+        <img src="macaco.jpg" alt="Imagem representativa">
+    </section>
+
+    <section>
+        <h2>Meus Hobbies</h2>
+        <ul>
+            <li>Vaporar</li>
+            <li>Ver séries</li>
+            <li>Treinar</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Minhas Metas</h2>
+        <ul>
+            <li>Flamengo ganhar a Libertadores</li>
+            <li>Flamengo ganhar o Brasileirão</li>
+            <li>Trocar de celular</li>
+        </ul>
+    </section>
+
+</body>
+</html>
